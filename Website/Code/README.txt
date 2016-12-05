@@ -1,0 +1,2 @@
+Währung2 ist derzeit die Startseite der Website. Sie wird in einem späteren Zeitpunkt dann auf main.html umbenannt.
+Dies ist nur ein Prototyp und soll zur verbildlichung des späteren Endergebnisess dienen.

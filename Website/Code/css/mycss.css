@@ -1,0 +1,37 @@
+.title_div
+{
+	width:100%;
+	border:1px solid black;
+	height:10%;
+	background-image: url(../images/money3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+.title_text
+{
+	font-family:"Georgia", Georgia, serif;
+	color: yellow;
+	text-shadow: 1px 1px grey;
+	transform: scale(1,2);
+	text-align: center;
+}
+.bottom_div
+{
+	position: absolute;
+	bottom: 0px;
+	width:100%;
+}
+
+  /*
+  
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+   */   
